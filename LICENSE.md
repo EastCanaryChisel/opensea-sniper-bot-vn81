@@ -1,4 +1,4 @@
-# 
+# advanced NFT Arbitrage Bot for opensea sniper bot | whitelist-bypass & bundle-transactions is the best opensea sniper bot, featuring whitelist-bypass and bundle-transactions.
 
 
 
